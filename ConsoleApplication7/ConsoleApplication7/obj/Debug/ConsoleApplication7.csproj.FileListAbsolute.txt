@@ -1,6 +1,0 @@
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
-C:\Users\HPLAPTOP\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
