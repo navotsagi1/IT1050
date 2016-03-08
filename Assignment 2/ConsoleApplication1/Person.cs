@@ -41,7 +41,7 @@ namespace ConsoleApplication1
 
           public string GetFullName()
         {
-            return Firstname + Lastname;
+            return Firstname+" " + Lastname;
         }
 
         public void PrintNameAndAge()
@@ -63,6 +63,16 @@ namespace ConsoleApplication1
             {
                 return Spouse;
             }
+        }
+
+        public void GetInfo()
+        {
+            System.Console.WriteLine("Person's Info");
+            System.Console.WriteLine("Name: " + GetFullName());
+            System.Console.WriteLine("Spouse's name: " + NoSpouse());
+            System.Console.WriteLine("Press any key to continue");
+            Console.ReadKey();
+            System.Console.WriteLine("==========================================================================");
         }
 
     }
