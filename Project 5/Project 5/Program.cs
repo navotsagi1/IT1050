@@ -25,10 +25,19 @@ namespace Project_5
 
             while ((Answer == "No") || (Answer == "no")) 
             {
+
+                List<Student>EmptyList = new List<Student>();
+                Course1.ListOfStudents = EmptyList;
+                                
                 Course1.AskForName();
                 Course1.AskForNumber();
                 Course1.AskForStudents();
-                
+
+                System.Console.WriteLine("Course name: " + Course1.GetName());
+                System.Console.WriteLine("Course CRN number: " + Course1.GetNumber());
+                System.Console.WriteLine("Students list: ");
+                Course1.PrintNameList();
+
                 System.Console.WriteLine("Is the information above correct?");
                 Answer = System.Console.ReadLine();
             }

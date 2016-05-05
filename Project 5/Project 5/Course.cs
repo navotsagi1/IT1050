@@ -34,11 +34,11 @@ namespace Project_5
             System.Console.WriteLine("How many students are in your course?");
             int Amount = int.Parse(System.Console.ReadLine());
             Student[] ArrayOfStudents = new Student[Amount];
-            for (int i = 0; i <= ArrayOfStudents.Length; i++)
+            for (int i = 0; i < ArrayOfStudents.Length; i++)
             {
                 ArrayOfStudents[i] = new Student();
-                ArrayOfStudents[i].SetName("Jimmy");
-                ArrayOfStudents[i].SetNumber(i);
+                ArrayOfStudents[i].SetName("Jimmy no. ");
+                ArrayOfStudents[i].SetNumber(i + 1);
             }
 
             ListOfStudents.AddRange(ArrayOfStudents);
