@@ -4,20 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_4
+namespace Project_5
 {
-    class Concessions
+    class Student
     {
         private string Name;
-        private double Price;
-        public double GetPrice() { return Price; }
+        private int SNumber;
         public string GetName() { return Name; }
+        public int GetNumber() { return SNumber; }
 
-        public Concessions (string name, double price)
+
+        public void SetName (string name)
         {
-            Price = price;
             Name = name;
         }
-        
+
+        public void SetNumber (int number)
+        {
+            SNumber = number;
+        }
+
     }
 }

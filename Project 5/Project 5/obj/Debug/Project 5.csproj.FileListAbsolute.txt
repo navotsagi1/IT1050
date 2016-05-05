@@ -1,0 +1,6 @@
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\bin\Debug\Project 5.exe.config
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\bin\Debug\Project 5.exe
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\bin\Debug\Project 5.pdb
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\obj\Debug\Project 5.csprojResolveAssemblyReference.cache
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\obj\Debug\Project 5.exe
+C:\Users\HPLAPTOP\Desktop\Project 5\Project 5\obj\Debug\Project 5.pdb
