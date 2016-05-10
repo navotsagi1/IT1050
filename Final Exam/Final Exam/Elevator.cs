@@ -22,13 +22,13 @@ namespace Final_Exam
         {
             Occupants[index] = new Passenger(passenger.GetName(), passenger.GetWeight());
         }
-        
+
         public double GetCurrentWeight ()
         {
             double x = 0;
             foreach (Passenger passenger in Occupants)
             {
-                x += passenger.GetWeight();
+                x = x + passenger.GetWeight();
             }
             return x;
         }
@@ -40,10 +40,10 @@ namespace Final_Exam
                 return true;
           }
          else
-         {
+          {
                 return false;
-         }
-
+          }
         }
+
     }
 }
