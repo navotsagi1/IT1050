@@ -29,7 +29,7 @@ namespace Final_Exam
             Elevator2.AddOccupant (Passenger4, 1);
             Elevator2.AddOccupant(Passenger5, 2);
             
-             bool Elevator2IsOverMaxCapacity = Elevator2.IsOverMaxCapacity();
+            bool Elevator2IsOverMaxCapacity = Elevator2.IsOverMaxCapacity();
 
             System.Console.ReadKey();
         }
