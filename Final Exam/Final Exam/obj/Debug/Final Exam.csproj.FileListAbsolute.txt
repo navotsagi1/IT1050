@@ -1,0 +1,6 @@
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\bin\Debug\Final Exam.exe.config
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\bin\Debug\Final Exam.exe
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\bin\Debug\Final Exam.pdb
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\obj\Debug\Final Exam.csprojResolveAssemblyReference.cache
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\obj\Debug\Final Exam.exe
+C:\Users\HPLAPTOP\Desktop\Final Exam\Final Exam\obj\Debug\Final Exam.pdb
